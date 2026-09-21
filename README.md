@@ -285,10 +285,11 @@ The application is designed for deployment using:
 
 The Hugging Face API token should be configured as a Streamlit secret during deployment.
 
-### Live Application
+## 🌐 Live Application
 
-The live Streamlit URL will be added here after deployment.
+Try the deployed AI Study Assistant:
 
+👉 https://llm-apis-ai-chat-application.streamlit.app/
 ---
 
 # 👩‍💻 Author
